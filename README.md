@@ -3,7 +3,7 @@
 A full-stack Restaurant Management System built with Python Flask, SQLite and Bootstrap.
 
 ## 🌐 Live Demo
-Coming soon...
+[ashimdev.pythonanywhere.com](https://ashimdev.pythonanywhere.com/)
 
 ## ✨ Features
 - User Registration & Login with password hashing
